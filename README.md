@@ -288,6 +288,10 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2024 TCSVT*** Cross-Domain Transfer Hashing for Efficient Cross-modal Retrieval(`CDTH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463060)[[Code]](https://github.com/WangBowen7/CDTH)  
 ***2024 TBD*** Scalable Unsupervised Hashing via Exploiting Robust Cross-Modal Consistency(`SUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382678)  
 ***2024 IJCV*** Hugs Bring Double Benefits: Unsupervised Cross-Modal Hashing with Multi-granularity Aligned Transformers(`HuggingHash`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-024-02009-7.pdf)  
+***2025 CVPR*** Hash3D: Training-free Acceleration for 3D Generation(`Hash3D`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Hash3D_Training-free_Acceleration_for_3D_Generation_CVPR_2025_paper.pdf)[[Code]](https://adamdad.github.io/hash3D/)  
+***2025 AAAI*** Vision-guided Text Mining for Unsupervised Cross-modal Hashing with Community Similarity Quantization(`VTM-UCH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32290)[[Code]](https://github.com/louisfanhz/VTMUCH)  
+***2025 AAAI*** Statistical Model-driven Similarity Hashing: Bridging Modalities for Efficient Unsupervised Retrieval(`SMSH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33304)
+***2025 MM*** Unsupervised Similarity-Fusion Transformer Hashing for Multimodal Retrieval(`USFTH`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3754753)
 
 * #### Deep-Supervised  
 ***2017 CVPR*** Deep Cross-Modal Hashing(`DCMH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.pdf)[[Code1]](https://github.com/jiangqy/DCMH-CVPR2017)[[Code2]](https://github.com/WendellGul/DCMH)[[Code3]](https://github.com/WangGodder/deep-cross-modal-hashing)[[Code4]](https://github.com/jiangqy/DCMH-CVPR2017/tree/master/DCMH_matlab/DCMH_matlab)[[Code5]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
@@ -392,6 +396,12 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 TKDE*** Deep Hierarchy-Aware Proxy Hashing With Self-Paced Learning for Cross-Modal Retrieval(`DHaPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10530441/)  
 ***2024 TMM*** Two-Step Discrete Hashing for Cross-Modal Retrieval(`TSDH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10487033/)[[Code]](https://github.com/kalenforn/clip-based-cross-modal-hash)  
 ***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441)    
+***2025 CVPR*** PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval(`PromptHash`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zou_PromptHashAffinity-Prompted_Collaborative_Cross-Modal_Learning_for_Adaptive_Hashing_Retrieval_CVPR_2025_paper.pdf)[[Code]](https://github.com/ShiShuMo/PromptHash)  
+***2025 AAAI*** Asymmetric Cross-Modal Hashing Based on Formal Concept Analysis(`ACHFCA`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32129)  
+***2025 AAAI*** Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval(`LCDH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32505)  
+***2025 AAAI*** Distribution-Consistency-Guided Multi-modal Hashing(`DCGMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33326/35481)[[Code]](https://github.com/LiuJinyu1229/DCGMH)  
+***2025 AAAI*** DrugHash: Hashing Based Contrastive Learning for Virtual Screening(`DrugHash`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33873/36028)  
+***2025 AAAI*** Semi-Supervised Online Cross-Modal Hashing(`SSOCH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33954)
 
 
 
