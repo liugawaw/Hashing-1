@@ -83,7 +83,6 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2024 TMM*** Self-Supervised Temporal Sensitive Hashing for Video Retrieval(`TSVH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10492503)  
 ***2024 TNNLS*** PrivFR: Privacy-Enhanced Federated Recommendation With Shared Hash Embedding(`PrivFR`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10506199)  
 ***2025 TNNLS*** Relational Consistency Induced Self-Supervised Hashing for Image Retrieval(`RCSH`)[[Paper]](https://ieeexplore.ieee.org/document/10327751)[[Code]](https://github.com/IMAG-LuJin/RCSH)  
-
 ***2025 CVPR*** AutoSSVH: Exploring Automated Frame Sampling for Efficient Self-Supervised Video Hashing(`AutoSSVH`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Lian_AutoSSVH_Exploring_Automated_Frame_Sampling_for_Efficient_Self-Supervised_Video_Hashing_CVPR_2025_paper.pdf)[[Code]](https://github.com/EliSpectre/CVPR25-AutoSSVH)  
 ***2025 CVPR*** Graph-Embedded Structure-Aware Perceptual Hashing for Neural Network Protection and Piracy Detection[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Graph-Embedded_Structure-Aware_Perceptual_Hashing_for_Neural_Network_Protection_and_Piracy_CVPR_2025_paper.pdf)  
 ***2025 AAAI*** Efficient Self-Supervised Video Hashing with Selective State Spaces(`S5VH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32835)[[Code]](https://github.com/gimpong/AAAI25-S5VH)  
