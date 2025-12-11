@@ -11,6 +11,7 @@
 ***2020 Artificial Intelligence Review*** Deep hashing for multi‑label image retrieval: a survey[[Paper]](https://link.springer.com/content/pdf/10.1007/s10462-020-09820-x.pdf)  
 ***2023 TKDD*** A Survey on Deep Hashing Methods[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3532624)  
 ***2024 TGRS*** Hash-Based Remote Sensing Image Retrieval(`HBRRSIR`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10599496)  
+***2025 IJCV*** An Empirical Study on Training Paradigms for Deep Supervised Hashing[[Paper]](https://link.springer.com/article/10.1007/s11263-025-02506-3)    
 
 ### 😄Cross-Modal  
 ***2020 IEEE ACCESS*** A Review of Hashing Methods for Multimodal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8963910)  
