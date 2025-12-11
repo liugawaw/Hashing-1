@@ -625,7 +625,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583369)[[Code]](https://github.com/xunguangwang/CgAT)    
 
 * #### Targeted  
-***2020 ECCV*** Targeted Attack for Deep Hashing Based Retrieval(`DHTA`)[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_36)[[Code]](https://github.com/jiawangbai/DHTA-master)   
+***2020 ECCV*** Targeted Attack for Deep Hashing Based Retrieval(`DHTA`)[[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_36)[[Code]](https://github.com/jiawangbai/DHTA-master) 
 ***2021 SIGIR*** Targeted Attack and Defense for Deep Hashing(`THA`)[[Paper]](https://dl.acm.org/doi/10.1145/3404835.3463233)[[Code]](https://github.com/xunguangwang/Targeted-Attack-and-Defense-for-Deep-Hashing)     
 ***2021 CVPR*** Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing(`ProS-GAN`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Prototype-Supervised_Adversarial_Network_for_Targeted_Attack_of_Deep_Hashing_CVPR_2021_paper.html)[[Code]](https://github.com/xunguangwang/ProS-GAN)      
 ***2021 CVPR*** You See What I Want You to See: Exploring Targeted Black-Box Transferability Attack for Hash-based Image Retrieval Systems(`NAG`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Xiao_You_See_What_I_Want_You_To_See_Exploring_Targeted_CVPR_2021_paper.html)[[Code]](https://github.com/SugarRuy/CVPR21_Transferred_Hash)    
@@ -634,18 +634,14 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 ICMR*** Targeted Universal Adversarial Attack on Deep Hash Networks(`TUA`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3652583.3658062)[[Code]](https://github.com/caoyuan57/TUA)    
 ***2024 AAAI*** Once and for All: Universal Transferable Adversarial Perturbation against Deep Hashing-Based Facial Image Retrieval(`UTAP`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28319)[[Code]](https://github.com/t2222l/UTAP)  
 ***2024 MMAsia*** Targeted Transferable Attack against Deep Hashing Retrieval(`TTA-GAN`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3595916.3626420)  
-***2025 TMM*** Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing(`PADHASH`)[[Paper]](https://arxiv.org/abs/2503.21236)  
- 
+***2025 TMM*** Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing(`PADHASH`)[[Paper]](https://arxiv.org/abs/2503.21236)   
 ***2025 AAAI*** HUANG: A Robust Diffusion Model-based Targeted Adversarial Attack Against Deep Hashing Retrieval(`HUANG`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32377)  
 
 ### 😄Cross-Modal
 * #### Non-targeted     
-***2019 NIPS*** Cross-Modal Learning with Adversarial Samples(`CMLA`)[[Paper]](https://papers.nips.cc/paper_files/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)
-
-​***2020 KDD*** Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning(`DACM`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403084)
-
-***2021 ICCV*** Adversarial Attack on Deep Cross-Modal Hamming Retrieval(`AACH`)[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Adversarial_Attack_on_Deep_Cross-Modal_Hamming_Retrieval_ICCV_2021_paper.html)
-
+***2019 NIPS*** Cross-Modal Learning with Adversarial Samples(`CMLA`)[[Paper]](https://papers.nips.cc/paper_files/paper/2019/hash/d384dec9f5f7a64a36b5c8f03b8a6d92-Abstract.html)  
+​***2020 KDD*** Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning(`DACM`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403084)     
+***2021 ICCV*** Adversarial Attack on Deep Cross-Modal Hamming Retrieval(`AACH`)[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Li_Adversarial_Attack_on_Deep_Cross-Modal_Hamming_Retrieval_ICCV_2021_paper.html)     
 ​***2023 TIS*** Eficient Query-based Black-Box Atack against Cross-modal Hashing Retrieval(`EQB2A`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3559758)[[Code]](https://github.com/tswang0116/EQB2A)
 
 * #### Targeted
@@ -661,6 +657,9 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 WWW*** CgAT: Center-Guided Adversarial Training for Deep Hashing-Based Retrieval(`CgAT`)[[Paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583369)[[Code]](https://github.com/xunguangwang/CgAT)  
 ***2023 TIFS*** Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval(`SAAT`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10189878)[[Code]](https://github.com/xandery-geek/SAAT)  
 ***2025 SIGIR*** Two-stage Adversarial Training for Deep Hashing via Representation Distillation(`CRDAT`)[[Paper]](https://dl.acm.org/doi/10.1145/3726302.3730103)
+
+### 😄Cross-Modal 
+***2025 TCSVT*** FPAD: Fuzzy-Prototype-guided Adversarial Attack and Defense for Deep Cross-Modal Hashing(`FPAD`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11145157)[[Code]](https://github.com/yzq131/FPAD)  
 
 ## 😍Long-Tail     
 ### 😄Single-Modal   
