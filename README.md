@@ -718,6 +718,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
    
 
 ## 😍Pruning(Non-Hashing)  
+***2026 AAAI*** Automatic Channel Pruning by Searching with Structure Embedding for Hash Network[[Paper]](https://arxiv.org/abs/2506.11469)[[Code]](https://github.com/caoyuan618/ACP-SSE)    
 ### 😄Small-Model Pruning 
 ***2018 ECCV*** AMC: AutoML for Model Compression and Acceleration on Mobile Devices(`AMC`)[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)  
 ***2019 ICCV*** MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning(`MetaPruning`)[[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MetaPruning_Meta_Learning_for_Automatic_Neural_Network_Channel_Pruning_ICCV_2019_paper.pdf)[[Code]](https://github.com/liuzechun/MetaPruning)  
