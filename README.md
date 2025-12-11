@@ -170,7 +170,7 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2023 TCSVT*** Learnable Locality-Sensitive Hashing for Video Anomaly Detection(`LLSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9882128)[[Code]](https://github.com/wayson20/LLSHforVAD)  
 ***2023 TGRS*** Deep Saliency Smoothing Hashing for Drone Image Retrieval(`DSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10065512)  
 ***2023 TKDE*** Intra-Category Aware Hierarchical Supervised Document Hashing(`IHDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740429)[[Code]](https://github.com/Academic-Hammer/IHDH)  
-***2023 TKDE*** LASH: Large-Scale Academic Deep Semantic Hashing(`LASH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9529077)[[Code]](https://github.com/Academic-Hammer/LASH)  
+***2023 TKDE*** LASH: Large-Scale Academic Deep Semantic Hashing(`LASH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9529077)[[Code]](https://github.com/Academic-Hammer/LASH) 
 ***2023 TKDE*** Zero-Shot Hashing via Asymmetric Ratio Similarity Matrix(`ZSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9712384)  
 ***2023 TMM*** Deep Neighborhood Structure-Preserving Hashing for Large-Scale Image Retrieval(`DNSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177242)  
 ***2023 TMM*** Knowledge Distillation Hashing for Occluded Face Retrieval(`KDH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10048551)  
@@ -182,7 +182,7 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 ***2023 TIP*** Hierarchical Hashing Learning for Image Set Classification[[Paper]](https://ieeexplore.ieee.org/document/10061433)  
 ***2024 TMM*** Deep Hashing Network With Hybrid Attention and Adaptive Weighting for Image Retrieval(`HAAW`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301569)  
 ***2024 TMM*** Deep Neighborhood Structure-Preserving Hashing for Large-Scale Image Retrieval(`DNSH`)[[Paper]](https://ieeexplore.ieee.org/document/10177242)  
-***2024 TMM*** Self-Paced Relational Contrastive Hashing for Large-Scale Image Retrieval(`SPRCH`)[[Paper]](https://ieeexplore.ieee.org/document/10234666)[[Code]](https://github.com/IMAG-LZY/SPRCH)  
+***2024 TMM*** Self-Paced Relational Contrastive Hashing for Large-Scale Image Retrieval(`SPRCH`)[[Paper]](https://ieeexplore.ieee.org/document/10234666)[[Code]](https://github.com/IMAG-LZY/SPRCH) 
 ***2024 TMM*** Dual Self-Paced Hashing for Image Retrieval(`DSPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10517459)[[Code]](https://github.com/sunyuan-cs/DSPH)  
 ***2024 TMM*** Relaxed Energy Preserving Hashing for Image Retrieval(`REPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10414409)[[Code]](https://github.com/sunyuan-cs/REPH_main)  
 ***2024 AAAI*** Distributed Manifold Hashing for Image Set Classification and Retrieval(`DMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28282)  
@@ -704,7 +704,6 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 TPAMI*** Content-Aware Rectified Activation for Zero-Shot Fine-Grained Image Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10404027)    
 ***2024 ArXiv*** COMAE: COMprehensive Attribute Exploration for Zero-shot Hashing[[Paper]](https://arxiv.org/pdf/2402.16424)[[Code]](https://github.com/YihangZhou0424/NN2024-COMAE)    
 ### 😄Cross-Modal 
-* #### Traditional-Supervised  
 * #### Deep-Supervised
 ***2019 ICDM*** Cross-modal Zero-shot Hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970685)  
 ***2021 ArXiv*** Cross-modal Zero-shot Hashing by Label Attributes Embedding[[Paper]](https://arxiv.dosf.top/abs/2111.04080)  
@@ -731,14 +730,14 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 ICCV*** Automatic Network Pruning via Hilbert-Schmidt Independence Criterion Lassounder Information Bottleneck Principle(`APIB`)[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Automatic_Network_Pruning_via_Hilbert-Schmidt_Independence_Criterion_Lasso_under_Information_ICCV_2023_paper.pdf)[[Code]](https://github.com/sunggo/APIB)  
 ***2024 CVPR*** Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch(`ATO`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Auto-Train-Once_Controller_Network_Guided_Automatic_Network_Pruning_from_Scratch_CVPR_2024_paper.pdf)[[Code]](https://github.com/xidongwu/AutoTrainOnce)  
 ***2024 Arxiv*** AutoDFP：Automatic Data-Free Pruning via Channel Similarity Reconstruction(`AutoDFP`)[[Paper]](https://arxiv.org/pdf/2403.08204?)  
-### 😄LLM-Pruning
+### 😄LLM Pruning
 ***2023 ICML*** SparseGPT：Massive Language Models Can be Accurately Pruned in One-Shot(`SparseGPT`)[[Paper]](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)[[Code]](https://github.com/IST-DASLab/sparsegpt)  
 ***2024 ICLR*** A simple and effective pruning approach for large language Models(`Wanda`)[[Paper]](https://arxiv.org/pdf/2306.11695)[[Code]](https://github.com/locuslab/wanda)  
 ***2025 CVPR*** EfficientLLaVA：Generalizable Auto-Pruning for Large Vision-language Models(`EfficientLLaVA`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_EfficientLLaVA_Generalizable_Auto-Pruning_for_Large_Vision-language_Models_CVPR_2025_paper.pdf)  
 
 
 ## 😍Quantization  
-
+***2024 MM*** One-bit Deep Hashing：Towards Resource-Efficient Hashing Model with Binary Neural Network[[Paper]](https://dl.acm.org/doi/10.1145/3664647.3681496)     
 ### 😄Mixed-Bit Quantization(Non-Hashing)
 ***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_HardwareAware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)  
 ***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
