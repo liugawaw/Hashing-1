@@ -788,7 +788,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 ICCV*** Prompt-aligned Gradient for Prompt Tuning[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)[[code]](https://github.com/BeierZhu/Prompt-align)  
 ***2023 ICCV*** Self-regulating prompts： Foundational model adaptation without[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)[[code]](https://github.com/muzairkhattak/PromptSRC)  
 ***2023 ICCV*** What Does a Platypus Look Like？ Generating Customized Prompts for Zero-Shot Image Classification[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.pdf)  
-***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models(`PromptKD`)[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD) 
+***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models(`PromptKD`)[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)  
 ***2024 CVPR*** Prompt Learning via Meta-Regularization[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Prompt_Learning_via_Meta-Regularization_CVPR_2024_paper.pdf)[[code]](https://github.com/mlvlab/ProMetaR)  
 ***2024 ICLR*** Consistency-guided Prompt Learning for Vision-Language Models[[paper]](https://openreview.net/forum?id=wsRXwlwx4w)[[code]](https://github.com/ShuvenduRoy/CoPrompt)  
 
