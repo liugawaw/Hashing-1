@@ -782,10 +782,19 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2021 ICML*** Learning Transferable Visual Models From Natural Language Supervision(`CLIP`)[[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP)  
 ***2022 CVPR*** Conditional Prompt Learning for Vision-Language Models(`CoCoOp`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9879913)[[Code]](https://github.com/KaiyangZhou/CoOp)  
 ***2022 IJCV*** Learning to Prompt for Vision-Language Models(`CoOp`)[[Paper]](https://arxiv.org/pdf/2109.01134)[[Code]](https://github.com/KaiyangZhou/CoOp)  
+***2022 CVPR*** Prompt Distribution Learning[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lu_Prompt_Distribution_Learning_CVPR_2022_paper.pdf)[[code]](https://github.com/bbbdylan/proda)  
+***2022 ECCV*** Visual prompt tuning[[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930696.pdf)[[code]](https://github.com/KMnP/vpt)  
 ***2023 CVPR*** MaPLe: Multi-modal Prompt Learning(`MaPLe`)[[Paper]](https://arxiv.org/pdf/2210.03117)[[Code]](https://github.com/muzairkhattak/multimodal-prompt-learning)  
-***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters(`CLIP-Adapter`)[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
-***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models(`PromptKD`)[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)  
+***2023 ICCV*** Prompt-aligned Gradient for Prompt Tuning[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Prompt-aligned_Gradient_for_Prompt_Tuning_ICCV_2023_paper.pdf)[[code]](https://github.com/BeierZhu/Prompt-align)  
+***2023 ICCV*** Self-regulating prompts： Foundational model adaptation without[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Khattak_Self-regulating_Prompts_Foundational_Model_Adaptation_without_Forgetting_ICCV_2023_paper.pdf)[[code]](https://github.com/muzairkhattak/PromptSRC)  
+***2023 ICCV*** What Does a Platypus Look Like？ Generating Customized Prompts for Zero-Shot Image Classification[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.pdf)  
+***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models(`PromptKD`)[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD) 
+***2024 CVPR*** Prompt Learning via Meta-Regularization[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Park_Prompt_Learning_via_Meta-Regularization_CVPR_2024_paper.pdf)[[code]](https://github.com/mlvlab/ProMetaR)  
+***2024 ICLR*** Consistency-guided Prompt Learning for Vision-Language Models[[paper]](https://openreview.net/forum?id=wsRXwlwx4w)[[code]](https://github.com/ShuvenduRoy/CoPrompt)  
+
 ### 😄Adapter Learning   
+***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters(`CLIP-Adapter`)[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
+
 
 ## 😍RAG(Non-Hashing)  
 ### 😄Single-Modal
