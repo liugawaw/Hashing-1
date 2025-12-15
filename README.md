@@ -801,8 +801,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 ICCV*** SuS-X: Training-Free Name-Only Transfer of Vision-Language Models[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Udandarao_SuS-X_Training-Free_Name-Only_Transfer_of_Vision-Language_Models_ICCV_2023_paper.pdf)[[code]](https://github.com/vishaal27/SuS-X)  
 ***2023 NIPS*** GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2b25c39788e5cf11d3541de433ebf4c0-Paper-Conference.pdf)[[code]](https://github.com/lixinustc/GraphAdapter)  
 ***2023 NIPS*** Meta-Adapter: An Online Few-shot Learner for Vision-Language Model[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ad48f017e6c3d474caf511208e600459-Abstract-Conference.html)[[code]](https://github.com/ArsenalCheng/Meta-Adapter)  
-***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters(`CLIP-Adapter`)[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
-***2024 ACL*** ContextBLIP： Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions[[paper]](ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions)[[code]](https://github.com/LHL3341/ContextBLIP)  
+***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
+***2024 ACL*** ContextBLIP： Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions[[paper]](https://aclanthology.org/2024.findings-acl.961/)[[code]](https://github.com/LHL3341/ContextBLIP)  
 ***2024 ICLR*** LLaMA-Adapter: Efficient Fine-tuning of Large Language Models with Zero-initialized Attention[[paper]](https://proceedings.iclr.cc/paper_files/paper/2024/hash/c196239c5f9481e0db2755f31fe4585f-Abstract-Conference.html)[[code]](https://github.com/OpenGVLab/LLaMA-Adapter)  
 
 ## 😍RAG(Non-Hashing)  
